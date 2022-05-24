@@ -1,5 +1,3 @@
-## Dawid Kulza
-
 ### Portfolio
 
-[GitHub]([url](https://github.com/dkulza)))
+[GitHub]([url](https://github.com/dkulza))
