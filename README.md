@@ -2,7 +2,17 @@
 
 [GitHub Profile](https://github.com/dkulza)
 
-## Portfolio
+- [Portfolio](#portfolio)
+  - [Applications](#applications)
+    - [Gamification platform](#gamification-platform) ~ Laravel, Filament, TailwindCSS, Livewire, Alpine.js
+    - [PasswordManager with 2FA](#passwordmanager-with-2fa) ~ Laravel
+    - [BECKHOFF TwinCat3 ParameterMonitor](#beckhoff-twincat3-parametermonitor) ~ .NET, Windows Forms, C#
+    - [eMoneyCounter](#emoneycounter) ~ .NET, Windows Forms, C#
+  - [UX/UI](#uxui)
+
+# Portfolio
+
+## Applications
 
 ### Gamification platform
 > __Note__ Built with: Laravel, Filament, TailwindCSS, Livewire, Alpine.js
@@ -33,3 +43,7 @@
 > __Note__ Built with: .NET, Windows Forms, C#
 
 ![image](https://user-images.githubusercontent.com/34130518/222969150-680c93a0-00da-4d78-8879-1259a1c7e9cc.png)
+
+
+## UX/UI
+soon...
