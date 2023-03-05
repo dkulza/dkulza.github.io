@@ -1,3 +1,3 @@
 ### Portfolio
 
-[GitHub]([url](https://github.com/dkulza))
+[GitHub](https://github.com/dkulza)
