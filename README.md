@@ -1,10 +1,6 @@
-## Github
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/34130518?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d)
-<h3>
 
 [GitHub Profile](https://github.com/dkulza)
-
-</h3>
 
 ## Portfolio
 
