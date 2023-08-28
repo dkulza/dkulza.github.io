@@ -1,10 +1,31 @@
-<h3 align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/34130518?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" align="center">
-</h3>
-<h3 align="center">Hi 👋, I'm Dawid</h3>
-<h4 align="center">Developer from Poland</h4>
+<img align="left" height="250" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/34130518?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d"  />
 
-<h4 align="center"><a href="https://github.com/dkulza">My github profile</a></h4>
+###
+
+<h2 align="left">Hi 👋, I'm Dawid</h2>
+
+###
+
+<h3 align="left">Developer from Poland</h3>
+
+###
+
+<h4 align="left"><a href="https://github.com/dkulza">My github profile</a></h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/dkulza/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/dawidcodes/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
