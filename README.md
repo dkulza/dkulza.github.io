@@ -1,4 +1,6 @@
-<img align="center" height="250" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/34130518?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d"  />
+<h3 align="center">
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/34130518?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" align="center">
+</h3>
 <h2 align="center">Hi 👋, I'm Dawid</h2>
 <h3 align="center">Developer from Poland</h3>
 <h4 align="center"><a href="https://github.com/dkulza">My github profile</a></h4>
